@@ -1,0 +1,12 @@
+C:\Users\geapr\_Git\caseItauDigitalAssets\CaseItauDigitalAssetsBank\CaseItauDigitalAssetsBank.Domain\bin\Debug\net8.0\CaseItauDigitalAssetsBank.Domain.deps.json
+C:\Users\geapr\_Git\caseItauDigitalAssets\CaseItauDigitalAssetsBank\CaseItauDigitalAssetsBank.Domain\bin\Debug\net8.0\CaseItauDigitalAssetsBank.Domain.dll
+C:\Users\geapr\_Git\caseItauDigitalAssets\CaseItauDigitalAssetsBank\CaseItauDigitalAssetsBank.Domain\bin\Debug\net8.0\CaseItauDigitalAssetsBank.Domain.pdb
+C:\Users\geapr\_Git\caseItauDigitalAssets\CaseItauDigitalAssetsBank\CaseItauDigitalAssetsBank.Domain\obj\Debug\net8.0\CaseItauDigitalAssetsBank.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geapr\_Git\caseItauDigitalAssets\CaseItauDigitalAssetsBank\CaseItauDigitalAssetsBank.Domain\obj\Debug\net8.0\CaseItauDigitalAssetsBank.Domain.AssemblyInfoInputs.cache
+C:\Users\geapr\_Git\caseItauDigitalAssets\CaseItauDigitalAssetsBank\CaseItauDigitalAssetsBank.Domain\obj\Debug\net8.0\CaseItauDigitalAssetsBank.Domain.AssemblyInfo.cs
+C:\Users\geapr\_Git\caseItauDigitalAssets\CaseItauDigitalAssetsBank\CaseItauDigitalAssetsBank.Domain\obj\Debug\net8.0\CaseItauDigitalAssetsBank.Domain.csproj.CoreCompileInputs.cache
+C:\Users\geapr\_Git\caseItauDigitalAssets\CaseItauDigitalAssetsBank\CaseItauDigitalAssetsBank.Domain\obj\Debug\net8.0\CaseItauDigitalAssetsBank.Domain.sourcelink.json
+C:\Users\geapr\_Git\caseItauDigitalAssets\CaseItauDigitalAssetsBank\CaseItauDigitalAssetsBank.Domain\obj\Debug\net8.0\CaseItauDigitalAssetsBank.Domain.dll
+C:\Users\geapr\_Git\caseItauDigitalAssets\CaseItauDigitalAssetsBank\CaseItauDigitalAssetsBank.Domain\obj\Debug\net8.0\refint\CaseItauDigitalAssetsBank.Domain.dll
+C:\Users\geapr\_Git\caseItauDigitalAssets\CaseItauDigitalAssetsBank\CaseItauDigitalAssetsBank.Domain\obj\Debug\net8.0\CaseItauDigitalAssetsBank.Domain.pdb
+C:\Users\geapr\_Git\caseItauDigitalAssets\CaseItauDigitalAssetsBank\CaseItauDigitalAssetsBank.Domain\obj\Debug\net8.0\ref\CaseItauDigitalAssetsBank.Domain.dll
