@@ -1,2 +1,32 @@
-# arquivos do Visual Studio
+## Ignore arquivos de build
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+
+## Visual Studio
 .vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Caches do VS
+*.cache
+*.mdb
+*.opendb
+*.VC.db
+*.VC.opendb
+
+## Arquivos temporários
+*.tmp
+*.temp
+*.log
+*.pidb
+*.svclog
+*.pid
+
+## Arquivos de lock
+*.lock.json
+
+## Confi

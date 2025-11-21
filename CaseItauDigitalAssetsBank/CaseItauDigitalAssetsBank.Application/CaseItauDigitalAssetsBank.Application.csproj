@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CaseItauDigitalAssetsBank.Domain\CaseItauDigitalAssetsBank.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

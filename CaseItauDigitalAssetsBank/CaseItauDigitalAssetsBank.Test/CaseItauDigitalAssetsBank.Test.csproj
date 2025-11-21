@@ -2,18 +2,23 @@
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
+    <LangVersion>latest</LangVersion>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.22" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="8.0.5" />
+    <PackageReference Include="Moq" Version="4.20.69" />
+    <PackageReference Include="MSTest" Version="4.0.1" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\CaseItauDigitalAssetsBank.Application\CaseItauDigitalAssetsBank.Application.csproj" />
     <ProjectReference Include="..\CaseItauDigitalAssetsBank.Domain\CaseItauDigitalAssetsBank.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Using Include="Microsoft.VisualStudio.TestTools.UnitTesting" />
   </ItemGroup>
 
 </Project>

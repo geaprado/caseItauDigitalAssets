@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CaseItauDigitalAssetsBank.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9510cbf902b07450bef0c58ed0929dfc345d3a31")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ac2273581037be32d9813730890cffec1b0fab4")]
 [assembly: System.Reflection.AssemblyProductAttribute("CaseItauDigitalAssetsBank.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CaseItauDigitalAssetsBank.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

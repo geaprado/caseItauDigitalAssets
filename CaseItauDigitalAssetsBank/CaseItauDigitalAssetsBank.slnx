@@ -3,4 +3,5 @@
   <Project Path="CaseItauDigitalAssetsBank.Application/CaseItauDigitalAssetsBank.Application.csproj" />
   <Project Path="CaseItauDigitalAssetsBank.Domain/CaseItauDigitalAssetsBank.Domain.csproj" />
   <Project Path="CaseItauDigitalAssetsBank.Infra.Data/CaseItauDigitalAssetsBank.Infra.Data.csproj" />
+  <Project Path="CaseItauDigitalAssetsBank.Test/CaseItauDigitalAssetsBank.Test.csproj" />
 </Solution>

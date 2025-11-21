@@ -1,0 +1,17 @@
+﻿using CaseItauDigitalAssetsBank.Domain.Validation;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace CaseItauDigitalAssetsBank.Domain.Entities
+{
+    public class Cliente
+    {
+        public int Id { get; set; }
+        public string Nome { get; set; } = string.Empty;
+        public string Email { get; set; } = string.Empty;
+        public decimal Saldo { get; set; } = 0m;
+    }
+}
