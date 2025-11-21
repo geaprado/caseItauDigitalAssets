@@ -1,15 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+namespace CaseItauDigitalAssetsBank.Application.Interfaces;
 
-namespace CaseItauDigitalAssetsBank.Application.Interfaces
+public interface IUnitOfWork : IAsyncDisposable
 {
-    public interface IUnitOfWork : IAsyncDisposable
-    {
-        Task BeginTransactionAsync(CancellationToken ct = default);
-        Task CommitAsync(CancellationToken ct = default);
-        Task RollbackAsync(CancellationToken ct = default);
-    }
+    Task BeginTransactionAsync(CancellationToken ct = default);
+    Task CommitAsync(CancellationToken ct = default);
+    Task RollbackAsync(CancellationToken ct = default);
 }
