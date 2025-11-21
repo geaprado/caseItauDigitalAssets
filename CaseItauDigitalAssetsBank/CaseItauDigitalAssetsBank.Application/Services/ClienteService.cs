@@ -1,4 +1,4 @@
-﻿using CaseItauDigitalAssetsBank.Application.Interfaces.cs;
+﻿using CaseItauDigitalAssetsBank.Application.Interfaces;
 using CaseItauDigitalAssetsBank.Domain.Entities;
 using System;
 using System.Collections.Generic;

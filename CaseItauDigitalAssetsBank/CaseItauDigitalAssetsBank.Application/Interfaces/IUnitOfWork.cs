@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CaseItauDigitalAssetsBank.Application.Interfaces.cs
+namespace CaseItauDigitalAssetsBank.Application.Interfaces
 {
     public interface IUnitOfWork : IAsyncDisposable
     {
